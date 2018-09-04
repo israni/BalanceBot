@@ -1,0 +1,18 @@
+manual A0, autonmous A1
+
+Square
+-start code aligned with square
+-start on bottom right corner
+-D2, A1
+
+Dragrace
+-start code aligned with line
+-D0, A1
+
+Manual race
+-Don't accelerate too fast
+-A0
+
+Autonomous maze
+-Align robot xy with optitrack xy when defining rigidbody and when we start code
+-D1, A1
